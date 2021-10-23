@@ -1,1 +1,1 @@
-Add background on settings screen
+git commit -m "Add log out on settings screen" -m "Only for signed user"
