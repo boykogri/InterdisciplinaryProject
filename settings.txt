@@ -1,1 +1,1 @@
-Add font sizes on settings screen
+Add background on settings screen
