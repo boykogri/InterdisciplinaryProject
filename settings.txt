@@ -1,1 +1,1 @@
-1m
+Add font sizes on settings screen
