@@ -1,1 +1,1 @@
-git commit -m "Add log out on settings screen" -m "Only for signed user"
+git commit -m "Add profile settings on settings screen" -m "Only changing name and last name"
